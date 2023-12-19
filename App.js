@@ -141,10 +141,6 @@ export default class hubcenter extends Component {
     }
   }
 
-  teste() {
-    alert('teste');
-  }
-
   render() {
 
     return (
