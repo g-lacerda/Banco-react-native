@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Text, View, StyleSheet, TextInput, Button, TouchableOpacity, Dimensions, Image, ScrollView, FlatList, Keyboard, Switch } from 'react-native';
 import Svg, { Path } from 'react-native-svg';
-import Pessoa from './Pessoa';
 import { Picker } from '@react-native-picker/picker';
 import Slider from '@react-native-community/slider';
 import { Alert } from 'react-native';
